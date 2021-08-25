@@ -1,2 +1,2 @@
 # LinearRegression
-Apply Linear Regression to housing data to preditc housing prices
+Apply Linear Regression to housing data to predict housing prices
